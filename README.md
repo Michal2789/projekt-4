@@ -1,0 +1,1 @@
+Aplikacja napisana w C++ z wykorzystaniem biblioteki WinAPI. Umożliwia sterowanie dźwigiem oraz manipulację figurami geometrycznymi (koło, trójkąt, kwadrat). Użytkownik może dodawać figury, zmieniać ich wagę, ustawiać tryb podnoszenia oraz przemieszczać magnes dźwigu.
